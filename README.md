@@ -1,6 +1,6 @@
 # OpenWrt 云编译 - 兆能 M2 (ZN-M2)
 
-[![Build OpenWrt](https://github.com/YOUR_USERNAME/My-OpenWrt-ZN-M2/actions/workflows/build-openwrt.yml/badge.svg)](https://github.com/YOUR_USERNAME/My-OpenWrt-ZN-M2/actions/workflows/build-openwrt.yml)
+[![Build OpenWrt](https://github.com/ilfordarber15/My-OpenWrt-ZN-M2/actions/workflows/build-openwrt.yml/badge.svg)](https://github.com/ilfordarber15/My-OpenWrt-ZN-M2/actions/workflows/build-openwrt.yml)
 
 基于 [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) 模板，为 **兆能 M2 (ZN-M2)** 路由器定制的 **OpenWrt 24.10** 云编译项目。
 
